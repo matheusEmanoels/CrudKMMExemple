@@ -86,3 +86,4 @@
 - [Documentação Oficial do Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 - [JetBrains - Kotlin Multiplatform](https://www.jetbrains.com/kotlin-multiplatform/)
 - [Android Developers - Kotlin Multiplatform Overview](https://developer.android.com/kotlin/multiplatform)
+- https://docs.google.com/presentation/d/1yM2GaZXOTmuggThsYzk_6EpQxYb_iZMttIQFNbYmwl4/edit?usp=sharing
